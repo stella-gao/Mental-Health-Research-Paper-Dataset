@@ -2,4 +2,4 @@
 A csv format dataset of mental health research papers
 
 
-![dataframe screenshot](dataframe.png)
+![dataframe screenshot](mental-dataframe.png)
